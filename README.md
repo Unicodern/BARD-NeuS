@@ -1,3 +1,5 @@
 # BARD-NeuS
-Neural implicit surface reconstruction method aimed at reconstructing precise surface details <br>
-![alt](https://github.com/Unicodern/BARD-NeuS/blob/main/example/Multi-view%20image.png) ![alt](https://github.com/Unicodern/BARD-NeuS/blob/main/example/color.png)
+Neural implicit surface reconstruction method aimed at reconstructing precise surface details<br>
+<img src="https://github.com/Unicodern/BARD-NeuS/blob/main/example/Multi-view%20image.png" width="315" height="250" />
+<img src="https://github.com/Unicodern/BARD-NeuS/blob/main/example/mesh.png" width="270" height="250" />
+<img src="https://github.com/Unicodern/BARD-NeuS/blob/main/example/color.png" width="270" height="250" />
